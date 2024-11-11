@@ -58,7 +58,7 @@ cd payments-backend
 node api.js
 ```
 
-The server should now be running on `http://localhost:5000`.
+The server should now be running on `http://localhost:5000\api`.
 
 #### 2. Start the front-end React application:
 
