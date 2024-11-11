@@ -7,8 +7,8 @@ const PaymentSchema = new mongoose.Schema({
   currency: { type: String, required: true },
   swiftCode: { type: Number, required: true },
   payeeAccount: { type: Number, required: true },
-  verified: { type: Boolean, default: false }, // Track if payment is verified
-  status: { type: String, default: 'pending' } // Track status: 'pending' or 'submitted'
+  verified: { type: Boolean, default: false }, 
+  status: { type: String, default: 'pending' } 
 });
 
 module.exports = mongoose.model('Payment', PaymentSchema);

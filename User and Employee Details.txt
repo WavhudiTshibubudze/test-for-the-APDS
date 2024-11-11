@@ -1,0 +1,41 @@
+User 1
+Name: Miranda Smith 
+ID NUMBER: 7401010132085
+Account NUMBER: 9696502012
+Password: Smith085
+
+User 2
+Name: Jackie Asamoah
+ID NUMBER: 9411061430187
+Account NUMBER: 8595663893
+Password:Asamoah8
+
+User 3
+Name: Luke Govender
+ID NUMBER: 0310059826183
+Account NUMBER: 7359044687
+Password:Govender3
+
+Employee 1
+{
+  "fullName": "Luyanda Aaron Nkosi",
+  "idNumber": "0310055251188",
+  "employeeId": "INBEMP001",
+  "password": "Nkosi031"
+}
+
+Employee 2
+{
+  "fullName": "Morena Nkosi",
+  "idNumber": "03100595211810",
+  "employeeId": "INBEMP002",
+  "password": "Morena810"
+}
+Employee 3
+{
+  "fullName": "Wavhudi Tshibubudze",
+  "idNumber": "0309074570081",
+  "employeeId": "INBEMP003",
+  "password": "Wavhudi081"
+}
+Youtube Link : https://youtu.be/sgcO3dwxKvc
